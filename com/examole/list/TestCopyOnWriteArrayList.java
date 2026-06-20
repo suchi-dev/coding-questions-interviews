@@ -22,7 +22,7 @@ public class TestCopyOnWriteArrayList {
         System.out.println(result2);
 
 
-        
+
 
 
     }
